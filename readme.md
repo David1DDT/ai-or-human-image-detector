@@ -1,10 +1,11 @@
 # 🤖 vs 🎨 AI or Human Image Detector
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![PyTorch](https://img.shields.io/badge/pytorch-2.0%2B-blue.svg)
-![Flask](https://img.shields.io/badge/flask-2.3%2B-blue.svg)
-![Next.js](https://img.shields.io/badge/next.js-14.0%2B-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/pytorch-2.0%2B-blue.svg?style=for-the-badge)
+![Flask](https://img.shields.io/badge/flask-2.3%2B-blue.svg?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-14.0%2B-blue.svg?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-blue.svg?style=for-the-badge&logo=typescript)
 
 **Detect whether an image was created by AI or a human photographer with cutting-edge deep learning technology.**
 
