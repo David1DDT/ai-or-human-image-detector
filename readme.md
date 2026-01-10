@@ -9,6 +9,8 @@
 
 **Detect whether an image was created by AI or a human photographer with cutting-edge deep learning technology.**
 
+![screenshot](./screenshot.png)
+
 ---
 
 ## ✨ **Why This Project?**
