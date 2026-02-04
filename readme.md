@@ -1,3 +1,4 @@
+skibidi toilet
 # 🤖 vs 🎨 AI or Human Image Detector
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
